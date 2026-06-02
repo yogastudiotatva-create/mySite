@@ -1,0 +1,27 @@
+<svg viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="800">
+      <stop offset="0%" stop-color="#f7f1e7" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+    <linearGradient id="shape" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#37685b" />
+      <stop offset="100%" stop-color="#86a69b" />
+    </linearGradient>
+    <filter id="shadow" x="-25%" y="-25%" width="150%" height="150%">
+      <feDropShadow dx="0" dy="26" stdDeviation="30" flood-color="#1f3f37" flood-opacity="0.12" />
+    </filter>
+  </defs>
+  <rect width="1200" height="800" rx="40" fill="url(#bg)" />
+  <text x="600" y="120" text-anchor="middle" fill="#103a31" font-family="Inter, sans-serif" font-size="72" letter-spacing="14">TATVA</text>
+  <text x="600" y="168" text-anchor="middle" fill="#103a31" font-family="Inter, sans-serif" font-size="28" opacity="0.8">Yoga & nutrition for real results</text>
+  <ellipse cx="600" cy="728" rx="460" ry="70" fill="#e9e2d7" opacity="0.8" />
+  <g filter="url(#shadow)">
+    <path d="M610 476c-34-6-70 8-100 26-30 18-58 38-86 58-18 14-30 32-38 52-12 32-10 68 4 98 16 34 46 58 86 60 30 2 58-12 86-24 26-10 50-20 76-30 22-8 48-14 68-28 24-18 42-46 50-76 10-42 0-90-24-124-24-34-64-58-112-70z" fill="url(#shape)" />
+    <path d="M630 224c0 28-22 50-50 50s-50-22-50-50 22-50 50-50 50 22 50 50z" fill="#efd9c0" />
+    <path d="M542 304c-38 24-86 30-124 14-40-18-62-62-54-104 8-46 44-74 84-76 26-2 56 12 74 34 18 20 22 46 14 72-10 30-24 56-20 60z" fill="#7aa793" opacity="0.95" />
+    <path d="M678 318c34-18 76-20 112 4 32 22 42 70 20 102-20 28-62 32-98 24-20-4-34-16-40-34-8-24-4-54 6-80z" fill="#6a8e7f" opacity="0.95" />
+    <path d="M580 472c-24 48-44 102-32 156 10 44 44 72 84 74 42 2 78-30 84-72 4-28 0-62-22-100-18-32-44-58-68-72-16-10-34-8-46 14z" fill="#5a8d7f" opacity="0.95" />
+    <path d="M560 604c-12 0-22 8-24 18l-8 46c-4 20 10 40 30 44 22 4 44-10 48-32l6-44c3-14-8-28-22-30-12-2-22 8-26 20l-2 6c-2 6-8 10-14 10z" fill="#133c36" opacity="0.85" />
+  </g>
+</svg>

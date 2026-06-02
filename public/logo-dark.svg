@@ -1,0 +1,11 @@
+<svg width="240" height="240" viewBox="0 0 240 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="240" rx="120" fill="#274545"/>
+  <path d="M61 96C61 76 86 64 120 64C154 64 179 76 179 96C179 116 154 128 120 128C86 128 61 116 61 96Z" fill="#FFFCEB"/>
+  <path d="M120 52C95 52 74 72 74 96H166C166 72 145 52 120 52Z" fill="#97A69A"/>
+  <path d="M100 140C95 148 92 160 92 172H148C148 160 145 148 140 140C134 148 126 152 120 152C114 152 106 148 100 140Z" fill="#97A69A"/>
+  <path d="M120 88C110 96 106 110 106 120C106 130 110 142 120 150C130 142 134 130 134 120C134 110 130 96 120 88Z" fill="#274545"/>
+  <path d="M74 106C68 118 66 136 72 150H88C86 136 82 118 74 106Z" fill="#97A69A"/>
+  <path d="M166 106C172 118 174 136 168 150H152C154 136 158 118 166 106Z" fill="#97A69A"/>
+  <text x="50%" y="184" text-anchor="middle" font-family="Montserrat, sans-serif" font-size="32" font-weight="700" fill="#FFFCEB">TATVA</text>
+  <text x="50%" y="208" text-anchor="middle" font-family="Montserrat, sans-serif" font-size="16" fill="#97A69A">Yoga Studio</text>
+</svg>
